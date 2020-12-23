@@ -1,6 +1,6 @@
 
 
-Create a simple multiplayer tick tack toe game
+a simple multiplayer tick tack toe game
 Assume 2 players max
 First person is player one, second is player 2
 Board should update automatically via websocket
